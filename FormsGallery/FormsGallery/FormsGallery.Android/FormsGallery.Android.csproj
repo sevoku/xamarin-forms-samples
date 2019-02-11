@@ -15,7 +15,6 @@
     <AndroidApplication>true</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
-    <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
     <NuGetPackageImportStamp />
@@ -87,7 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FormsGallery\FormsGallery.csproj">
-      <Project>{9876e983-d7b4-45e2-b00e-160c3aed2862}</Project>
+      <Project>{AD67CD9C-6F46-47F0-957A-AEA55BFC143F}</Project>
       <Name>FormsGallery</Name>
     </ProjectReference>
   </ItemGroup>
